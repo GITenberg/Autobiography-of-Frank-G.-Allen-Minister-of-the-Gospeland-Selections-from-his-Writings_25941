@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '31681'
     url: http://www.gutenberg.org/2009/agents/31681
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25941#Autobiography-of-Frank-G.-Allen-Minister-of-the-Gospeland-Selections-from-his-Writings
 gutenberg_issued: '2008-06-30'
 gutenberg_type: Text
 identifiers:
