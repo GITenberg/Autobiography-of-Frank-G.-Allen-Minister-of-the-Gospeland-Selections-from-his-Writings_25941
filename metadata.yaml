@@ -1,0 +1,37 @@
+_repo: Autobiography-of-Frank-G.-Allen-Minister-of-the-Gospeland-Selections-from-his-Writings_25941
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Allen, F. G. (Frank Gibbs)
+    alias: Allen, Frank Gibbs
+    birthdate: 1836
+    deathdate: 1887
+    gutenberg_agent_id: '31680'
+    url: http://www.gutenberg.org/2009/agents/31680
+  editor:
+    agent_name: Graham, Robert
+    birthdate: 1822
+    deathdate: 1901
+    gutenberg_agent_id: '31681'
+    url: http://www.gutenberg.org/2009/agents/31681
+description: ''
+gutenberg_issued: '2008-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25941'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clergy -- Kentucky -- Biography'
+- !lcc 'BX'
+- !lcsh 'Autobiographies'
+- !lcc 'CT'
+title: 'Autobiography of Frank G. Allen, Minister of the Gospel
+
+  and Selections from his Writings'
+url: http://www.gutenberg.org/ebooks/25941
